@@ -23,7 +23,6 @@ describe("Ferry testing", function () {
         assert.equal(trips_on_ferry, expected);
     });
 
-
     it("We should add a car to the ferry and the car count should return the length of one ", function () {
 
         let ferry = new Ferry(35, 10);
@@ -99,8 +98,6 @@ describe("Ferry testing", function () {
 
         assert.equal(count_colors, expected);
     })
-
-
 
     it("The count people method should return the number 10 people", function () {
 

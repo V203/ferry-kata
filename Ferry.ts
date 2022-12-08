@@ -60,4 +60,5 @@ export default class Ferry {
     disembark() {
         this.cars.pop();
     }
+    
 }

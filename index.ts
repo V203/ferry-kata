@@ -1,6 +1,5 @@
 import Car from "./Car";
 import Ferry from "./Ferry";
-import Icar from "./ICar";
 
 let carv203 = new Car({color:"black",passengerCount:1});
 let ferry = new Ferry(35,10);

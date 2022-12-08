@@ -13,6 +13,7 @@ export default class Car implements ICar{
         this.num_plate = this.location[Math.floor(Math.random()*3)] +"-" + Math.random().toString().substring(2,6);
     }
 
+
     
 }
 
