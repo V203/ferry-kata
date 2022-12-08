@@ -1,0 +1,1 @@
+[![Node.js CI](https://github.com/V203/ferry-kata/actions/workflows/node.js.yml/badge.svg)](https://github.com/V203/ferry-kata/actions/workflows/node.js.yml)
