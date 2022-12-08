@@ -147,7 +147,7 @@ describe("Ferry testing", function () {
         ferry.board(aston);
         ferry.board(BMW);
         ferry.board(lamborghini);
-        // ferry.disembark();
+        ferry.disembark();
 
         let car_count = ferry.car_count();
         let expected = 2;
